@@ -319,6 +319,7 @@ min-width: 169px;
 height: 56px;
 border: none;
 margin-top: 48px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .hero-btn{
@@ -464,6 +465,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--color-team-group);
 text-align: center;
+margin-bottom: 8px;
 }
 
 .team-soc-list {
@@ -486,7 +488,6 @@ background-color:#4D5AE5;
 display: flex;
 align-items: center;
 justify-content: center;
-margin-top: 8px;
 }
 
 .team-soc-link:hover, .team-soc-link:focus{
